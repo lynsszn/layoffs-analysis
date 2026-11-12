@@ -89,6 +89,6 @@ The exploratory analysis revealed the following patterns in the global layoffs d
 
 ## Reference
 
--- Alex The Analyst (Data Analysis Bootcamp)
+- Alex The Analyst (Data Analysis Bootcamp)
 
 
