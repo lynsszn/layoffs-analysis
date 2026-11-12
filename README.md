@@ -10,6 +10,7 @@
 - [Kay Findings](#key-findings)
 - [Limitations](#limitations)
 - [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
 - [Reference](#reference)
 
 ## Project Overview
@@ -86,6 +87,10 @@ The exploratory analysis revealed the following patterns in the global layoffs d
 1. Improve Workforce Data Collection: Future datasets should include total employee counts before and after layoffs to provide better context for understanding the scale of workforce reductions.
 2. Monitor Industry Trends: Organisations and stakeholders should pay attention to industries with consistently high layoff figures to better understand employment risks and changing workforce demands.
 3. Strengthen Workforce Planning: Companies should consider regular reviews of their financial performance, funding position and workforce requirements to support more sustainable staffing decisions.
+
+## Conclusion
+This project demonstrates how SQL can be used to clean, transform and analyse structured datasets to uncover meaningful patterns.
+Through the analysis of global layoffs, I gained practical experience working with data cleaning techniques, aggregations, window functions and exploratory data analysis while developing the ability to translate query results into findings and recommendations.
 
 ## Reference
 
